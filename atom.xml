@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lengyedn.github.io</id>
     <title>LYDN&apos;s SHELTER</title>
-    <updated>2020-08-12T07:52:28.272Z</updated>
+    <updated>2020-08-13T13:48:48.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lengyedn.github.io"/>
     <link rel="self" href="https://lengyedn.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://lengyedn.github.io/images/avatar.png</logo>
     <icon>https://lengyedn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, LYDN&apos;s SHELTER</rights>
+    <entry>
+        <title type="html"><![CDATA[I COULD ONLY SEE THE REFLECTIONS IN OTHER'S EYES]]></title>
+        <id>https://lengyedn.github.io/post/0813/</id>
+        <link href="https://lengyedn.github.io/post/0813/">
+        </link>
+        <updated>2020-08-13T13:18:58.000Z</updated>
+        <content type="html"><![CDATA[<p>去做个梦吧，梦里啥都有。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["I will give them shelter like you done for me."]]></title>
         <id>https://lengyedn.github.io/post/i-will-give-them-shelter-like-you-done-for-me/</id>

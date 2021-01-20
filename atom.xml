@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ichrin.github.io</id>
     <title>Ichrin&apos;s SHELTER</title>
-    <updated>2021-01-18T12:55:32.116Z</updated>
+    <updated>2021-01-20T03:14:07.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ichrin.github.io"/>
     <link rel="self" href="https://ichrin.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://ichrin.github.io/images/avatar.png</logo>
     <icon>https://ichrin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Ichrin&apos;s SHELTER</rights>
+    <entry>
+        <title type="html"><![CDATA[Project-Shadows 剧情（初稿]]></title>
+        <id>https://ichrin.github.io/post/shadow-seikai/</id>
+        <link href="https://ichrin.github.io/post/shadow-seikai/">
+        </link>
+        <updated>1000-11-29T16:18:07.000Z</updated>
+    </entry>
 </feed>
